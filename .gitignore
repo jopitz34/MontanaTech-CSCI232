@@ -1,0 +1,14 @@
+# Exclude the whole NOT-Important directory
+/NOT-Important/
+
+# Exclude all python files in the SEMI-Important directory
+/SEMI-Important/*.py
+
+# Exclude the .vs directory in the Important directory
+/Important/.vs
+
+# Exclude the Important.vcxproj.filters file from the Important directory
+/Important/Important.vcxproj.filters
+
+# Exclude the Important.vcxproj.user file from the Important directory
+/Important/Important.vcxproj.user
