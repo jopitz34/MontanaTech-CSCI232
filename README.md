@@ -1,6 +1,16 @@
 # Montana Tech GitHub Basics Lab
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
+## Submission Information
+- **Name:** Joe Opitz
+- **Course:** 232-01, Data Structures and Algorithms
+- **Due:** October 11, 2023
+- [View the rest of my GitHub here](https://github.com/jopitz34)
+- **My favorite hobbies:**
+  1. Playing golf with friends
+  2. Going for a hike
+  3. Ping Pong
+
 ## Objectives
 - Learn how to fork a repository
 - Learn how to clone a repository
